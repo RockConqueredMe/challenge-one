@@ -9,6 +9,21 @@
 	background-position: center;
 	background-size: cover;
 }
+.overjumbo{
+	text-align: center;
+	width: 475px;
+	margin: auto;
+	margin-top: 150px;
+	color: #fff;
+}
+.overjumbo h2{
+	font-size: 45px;
+	font-family: cursive;
+	/*width:450px;*/
+}
+.overjumbo h1{
+	font-size: 85px;
+}
 
 
 

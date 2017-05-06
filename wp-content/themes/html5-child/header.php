@@ -29,10 +29,11 @@
 		<div class="jumbotron">
 			<div class="container">
 				<nav class="navbar">
-
+					<a href="#" class="navbar-brand">MoGo</a>
 				</nav>
 				<div class="overjumbo">
-
+					<h2>Creative Template</h2>
+					<h1>WELCOME TO MOGO</h1>
 				</div>
 			</div>
 		</div>
