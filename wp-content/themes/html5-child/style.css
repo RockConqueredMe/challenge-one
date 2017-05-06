@@ -8,6 +8,12 @@
 	background-image: url("http://192.168.33.105/wp-content/uploads/2017/05/layer-15.jpg");
 	background-position: center;
 	background-size: cover;
+	padding-top: 0;
+}
+.navbar a{
+	color:#fff;
+	font-size: 20px;
+	margin:15px;
 }
 .overjumbo{
 	text-align: center;
@@ -16,6 +22,12 @@
 	margin-top: 150px;
 	color: #fff;
 }
+.jumbohr{
+	width: 100px;
+	background-color: #fff;
+	height: 3px;
+}
+
 .overjumbo h2{
 	font-size: 45px;
 	font-family: cursive;

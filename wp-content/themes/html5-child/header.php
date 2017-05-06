@@ -28,12 +28,38 @@
 		<!-- jumbotron -->
 		<div class="jumbotron">
 			<div class="container">
-				<nav class="navbar">
+				<nav class="navbar navbar-toggleable-md">
 					<a href="#" class="navbar-brand">MoGo</a>
+					<div class="collpase navbar-collapse">
+						<ul class="navbar-nav ml-auto">
+				      <li class="nav-item active">
+				        <a class="nav-link" href="#">ABOUT <span class="sr-only">(current)</span></a>
+				      </li>
+				      <li class="nav-item">
+				        <a class="nav-link" href="#">SERVICE</a>
+				      </li>
+				      <li class="nav-item">
+				        <a class="nav-link" href="#">WORK</a>
+				      </li>
+							<li class="nav-item">
+				        <a class="nav-link" href="#">BLOG</a>
+				      </li>
+							<li class="nav-item">
+				        <a class="nav-link" href="#">CONTACT</a>
+				      </li>
+							<li class="nav-item">
+				        <a class="nav-link" href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+				      </li>
+							<li class="nav-item">
+				        <a class="nav-link" href="#"><i class="fa fa-search" aria-hidden="true"></i></i></a>
+				      </li>
+	    			</ul>
+					</div>
 				</nav>
 				<div class="overjumbo">
 					<h2>Creative Template</h2>
 					<h1>WELCOME TO MOGO</h1>
+					<hr class="jumbohr">
 				</div>
 			</div>
 		</div>
