@@ -1,20 +1,63 @@
-/*
-	Theme Name: HTML5 Blank
-	Theme URI: http://html5blank.com
-	Description: HTML5 Blank WordPress Theme
-	Version: 1.4.3
-	Author: Todd Motto (@toddmotto)
-	Author URI: http://toddmotto.com
-	Tags: Blank, HTML5, CSS3
-
-	License: MIT
-	License URI: http://opensource.org/licenses/mit-license.php
-*/
 
 /*------------------------------------*\
     MAIN
 \*------------------------------------*/
+/*my styles*/
+.jumbotron{
+	height: 800px;
+	background-image: url("http://192.168.33.105/wp-content/uploads/2017/05/layer-15.jpg");
+	background-position: center;
+	background-size: cover;
+	padding-top: 0;
+}
+.navbar a.navbar-brand{
+	font-size: 30px;
+}
+.navbar a{
+	color:#fff;
+	font-size: 14px;
+	margin:15px;
+}
+.nav-item.active a{
+	color:yellow;
+	text-decoration: underline;
+}
+.overjumbo{
+	text-align: center;
+	width: 800px;
+	margin: auto;
+	margin-top: 75px;
+	color: #fff;
+}
+.overjumbo h2{
+	font-size: 72px;
+	font-family: cursive;
+	/*width:450px;*/
+}
+.overjumbo h1{
+	font-size: 150px;
+}
+.jumbohr{
+	width: 100px;
+	background-color: #fff;
+	height: 3px;
+	margin-top: 50px;
+}
+.jumbobtn{
+	width: 160px;
+	height:40px;
+	border:3px solid white;
+	margin: auto;
+	margin-top: 50px;
+	text-align: center;
+}
+.jumbobtn p{
+	padding-top: 10px;
+}
 
+
+
+/*html5 blank styles*/
 /* global box-sizing */
 *,
 *:after,
@@ -75,8 +118,8 @@ input:focus {
 
 /* wrapper */
 .wrapper {
-	max-width:1280px;
-	width:95%;
+	/*max-width:1280px;*/
+	/*width:95%;*/
 	margin:0 auto;
 	position:relative;
 }
