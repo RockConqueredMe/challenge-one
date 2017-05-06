@@ -10,9 +10,12 @@
 	background-size: cover;
 	padding-top: 0;
 }
+.navbar a.navbar-brand{
+	font-size: 30px;
+}
 .navbar a{
 	color:#fff;
-	font-size: 20px;
+	font-size: 14px;
 	margin:15px;
 }
 .nav-item.active a{
@@ -21,18 +24,18 @@
 }
 .overjumbo{
 	text-align: center;
-	width: 475px;
+	width: 800px;
 	margin: auto;
-	margin-top: 150px;
+	margin-top: 75px;
 	color: #fff;
 }
 .overjumbo h2{
-	font-size: 45px;
+	font-size: 72px;
 	font-family: cursive;
 	/*width:450px;*/
 }
 .overjumbo h1{
-	font-size: 85px;
+	font-size: 150px;
 }
 .jumbohr{
 	width: 100px;
