@@ -60,6 +60,9 @@
 					<h2>Creative Template</h2>
 					<h1>WELCOME TO MOGO</h1>
 					<hr class="jumbohr">
+					<div class="jumbobtn">
+						<p>LEARN MORE</p>
+					</div>
 				</div>
 			</div>
 		</div>
