@@ -15,6 +15,10 @@
 	font-size: 20px;
 	margin:15px;
 }
+.nav-item.active a{
+	color:yellow;
+	text-decoration: underline;
+}
 .overjumbo{
 	text-align: center;
 	width: 475px;
