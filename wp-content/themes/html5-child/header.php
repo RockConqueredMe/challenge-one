@@ -25,17 +25,24 @@
 	</head>
 	<body <?php body_class(); ?>>
 
+		<!-- jumbotron -->
+		<div class="jumbotron">
+			<div class="container">
+				<nav class="navbar">
+
+				</nav>
+				<div class="overjumbo">
+
+				</div>
+			</div>
+		</div>
+		<!-- end jumbotron -->
 		<!-- wrapper -->
 		<div class="wrapper">
 
 			<!-- header -->
 			<header class="header clear" role="banner">
 
-				<div class="container">
-						<div class="jumbotron">
-
-						</div>
-				</div>
 
 					<!-- nav -->
 					<!-- <nav class="nav" role="navigation">

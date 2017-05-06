@@ -1,20 +1,18 @@
-/*
-	Theme Name: HTML5 Blank
-	Theme URI: http://html5blank.com
-	Description: HTML5 Blank WordPress Theme
-	Version: 1.4.3
-	Author: Todd Motto (@toddmotto)
-	Author URI: http://toddmotto.com
-	Tags: Blank, HTML5, CSS3
-
-	License: MIT
-	License URI: http://opensource.org/licenses/mit-license.php
-*/
 
 /*------------------------------------*\
     MAIN
 \*------------------------------------*/
+/*my styles*/
+.jumbotron{
+	height: 800px;
+	background-image: url("http://192.168.33.105/wp-content/uploads/2017/05/layer-15.jpg");
+	background-position: center;
+	background-size: cover;
+}
 
+
+
+/*html5 blank styles*/
 /* global box-sizing */
 *,
 *:after,
@@ -75,8 +73,8 @@ input:focus {
 
 /* wrapper */
 .wrapper {
-	max-width:1280px;
-	width:95%;
+	/*max-width:1280px;*/
+	/*width:95%;*/
 	margin:0 auto;
 	position:relative;
 }
